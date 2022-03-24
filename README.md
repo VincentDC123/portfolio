@@ -1,4 +1,4 @@
-# ** Portfolio Website **
+# **Portfolio Website**
 This is my personal portfolio.
 It contains:
 - Introduction
